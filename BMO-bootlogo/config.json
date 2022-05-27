@@ -1,0 +1,7 @@
+{
+"label":"BMO bootlogo",
+"icon":"BMO.png",
+"iconsel":"",
+"launch":"launch.sh",
+"description":"Flash bootlogo"
+}
