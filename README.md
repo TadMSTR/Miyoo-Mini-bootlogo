@@ -1,5 +1,5 @@
 # Miyoo-Mini-bootlogo
-I have not tested thus yet. Use at your own risk. I am not responsible for any bricked devices.
+I have not tested this yet. Use at your own risk. I am not responsible for any bricked devices.
   
 This will flash the Miyoo Mini bootlogo to the one provided. If you wish to use your own then make sure it is 640x480, upside down and saved as jpg.  
   
