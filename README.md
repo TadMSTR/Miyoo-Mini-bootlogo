@@ -11,6 +11,6 @@ Place the folder and all of its contents into the App folder on your sdcard. Boo
 I made this for OnionOS. I do not know if it will work in MiniUI.
   
 ## Credit ##
-**Choo T** for making the art.
-**Eggs** for making the bootlogo tools.
+**Choo T** for making the art.  
+**Eggs** for making the bootlogo tools.  
 [logotweak](https://www.dropbox.com/sh/hqcsr1h1d7f8nr3/AABtSOygIX_e4mio3rkLetWTa)
