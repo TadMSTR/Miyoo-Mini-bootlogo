@@ -13,4 +13,8 @@ I made this for OnionOS. I do not know if it will work in MiniUI.
 ## Credit ##
 **Choo T** for making the art.  
 **Eggs** for making the bootlogo tools.  
-[logotweak](https://www.dropbox.com/sh/hqcsr1h1d7f8nr3/AABtSOygIX_e4mio3rkLetWTa)
+[logotweak](https://www.dropbox.com/sh/hqcsr1h1d7f8nr3/AABtSOygIX_e4mio3rkLetWTa)  
+  
+##    
+  
+<a href="https://www.buymeacoffee.com/TadMSTR"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=TadMSTR&button_colour=FFDD00&font_colour=000000&font_family=Comic&outline_colour=000000&coffee_colour=ffffff"></a>
